@@ -1,0 +1,25 @@
+/* Center the dialog content */
+.mat-dialog-content {
+  text-align: center;
+}
+
+/* Add some padding to the dialog actions */
+.mat-dialog-actions {
+  padding: 10px;
+}
+
+/* Adjust the button styles */
+.mat-dialog-actions button {
+  margin: 0 5px;
+}
+
+/* Center the dialog title */
+.mat-dialog-title {
+  text-align: center;
+}
+
+/* Add some margin between title and content */
+.mat-dialog-title,
+.mat-dialog-content {
+  margin-bottom: 10px;
+}

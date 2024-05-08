@@ -1,0 +1,39 @@
+.confirmation-container {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.confirmation-container h2 {
+  margin-bottom: 10px;
+}
+
+.confirmation-container p {
+  margin-bottom: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button-container button {
+  margin: 0 10px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: red;
+  color: #fff;
+  cursor: pointer;
+}
+.button-container .cancel-button{
+    background-color: green;
+}
+.button-container button:hover {
+  background-color: #0056b3;
+}

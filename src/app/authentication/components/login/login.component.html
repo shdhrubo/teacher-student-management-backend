@@ -1,0 +1,16 @@
+<h3>User Login</h3>
+<form ngNativeValidate>
+  <mat-form-field>
+    <mat-label>Email:</mat-label>
+    <input matInput placeholder="Email" type="email" [(ngModel)]="email" name="email" required>
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Password:</mat-label>
+    <input matInput placeholder="Password" type="password" [(ngModel)]="password" name="password" required>
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" (click)="submitForm()">Login</button>
+  <p>Don't have an account yet? <span><a routerLink="/signup">Register</a></span></p>
+  <p> <a routerLink="">Forgotten Password?</a></p>
+</form>

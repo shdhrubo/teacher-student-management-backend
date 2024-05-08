@@ -1,0 +1,16 @@
+<h3>Update Student</h3>
+<form (ngSubmit)="submitForm()" #studentForm="ngForm" ngNativeValidate>
+  <mat-form-field class="form-group">
+    <mat-label>Name:</mat-label>
+    <input matInput type="text" [(ngModel)]="updatedStudent.name" name="name" required>
+  </mat-form-field>
+  <mat-form-field class="form-group">
+    <mat-label>Email:</mat-label>
+    <input matInput type="email" [(ngModel)]="updatedStudent.email" name="email" required>
+  </mat-form-field>
+  <mat-form-field class="form-group">
+    <mat-label>Teacher ID:</mat-label>
+    <input matInput type="number" [(ngModel)]="updatedStudent.teacherId" name="teacherId" required>
+  </mat-form-field>
+  <button mat-flat-button color="primary" type="submit" class="btn btn-primary">Update</button>
+</form>

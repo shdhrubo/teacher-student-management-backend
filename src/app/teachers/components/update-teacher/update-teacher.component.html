@@ -1,0 +1,17 @@
+<h3>Update Teacher with id : {{ teacherId }}</h3>
+<form (ngSubmit)="submitForm()" #teacherForm="ngForm" ngNativeValidate>
+  <mat-form-field class="form-group">
+    <mat-label>Name:</mat-label>
+    <input matInput type="text" required [(ngModel)]="updatedTeacher.name" name="name" placeholder="Enter name">
+  </mat-form-field>
+  <mat-form-field class="form-group">
+    <mat-label>Email:</mat-label>
+    <input matInput type="email" [(ngModel)]="updatedTeacher.email" name="email" placeholder="Enter email" required>
+  </mat-form-field>
+  <mat-form-field class="form-group">
+    <mat-label>Subject:</mat-label>
+    <input matInput type="text" [(ngModel)]="updatedTeacher.subject" name="subject" placeholder="Enter subject"
+      required>
+  </mat-form-field>
+  <button mat-raised-button type="submit" color="primary">Submit</button>
+</form>

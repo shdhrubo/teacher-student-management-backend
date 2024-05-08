@@ -1,0 +1,14 @@
+/* Container style */
+h3 {
+  text-align: center;
+  color: #1976d2;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  border: 1px solid gray;
+  padding: 40px;
+  justify-content: center;
+  margin: 0 auto 0 auto;
+}

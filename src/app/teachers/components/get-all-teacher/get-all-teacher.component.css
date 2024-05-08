@@ -1,0 +1,51 @@
+h2 {
+  text-align: center;
+}
+.no-teachers {
+  margin-bottom: 20px;
+}
+
+.teacher-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.teacher-table th,
+.teacher-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.teacher-table th {
+  background-color: #f2f2f2;
+}
+
+.pagination-controls {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* .pagination-controls button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 4px;
+  outline: none;
+} */
+
+.pagination-controls button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.pagination-controls span {
+  font-weight: bold;
+  margin: 0 10px;
+}
+.action-buttons button {
+  margin: 5px;
+}

@@ -1,0 +1,32 @@
+<div *ngIf="students.length === 0" class="no-students">
+    <p>No students found.</p>
+  </div>
+  
+  <div *ngIf="students.length > 0" class="table-container">
+    <h2>Students' Information</h2>
+    <table class="student-table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Email</th>
+          <th>TeacherId</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let student of students">
+          <td>{{ student.id }}</td>
+          <td>{{ student.name }}</td>
+          <td>{{ student.email }}</td>
+          <td>{{ student.teacherId }}</td>
+          <td>
+            <button (click)="updateStudent(student)" class="action-button">Update</button>
+            <button (click)="deleteStudent(student)" class="action-button">Delete</button>
+            <button (click)="viewDetails(student)" class="action-button">Details</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  

@@ -1,0 +1,30 @@
+.student-heading {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.student-info {
+  width: 80%; /* Adjust the width as needed */
+  margin: 0 auto; /* Center horizontally */
+  border-collapse: collapse;
+}
+
+.student-info td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.student-info td:first-child {
+  font-weight: bold;
+  width: 150px;
+}
+
+.student-info td:last-child {
+  text-align: left;
+}
+
+.student-info td:last-child::first-letter {
+  text-transform: uppercase;
+}
