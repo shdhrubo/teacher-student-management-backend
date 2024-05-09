@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular\\sample-application\\API\\CRUD.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\hasscopehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\hasscopehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HasScopeRequirement.cs",
+              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeRequirement.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\HasScopeRequirement.cs",
+              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeRequirement.cs",
+              "RelativeToolTip": "CRUD.API\\HasScopeRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:17:53.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CRUD.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:29:44.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "CRUD.API\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwC8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:11:19.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD.API\\appsettings.json",
+              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\appsettings.json",
+              "RelativeToolTip": "CRUD.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T03:18:33.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Program.cs",
+              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Program.cs",
+              "RelativeToolTip": "CRUD.API\\Program.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:10:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HasScopeHandler.cs",
+              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeHandler.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\HasScopeHandler.cs",
+              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeHandler.cs",
+              "RelativeToolTip": "CRUD.API\\HasScopeHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:18:55.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
