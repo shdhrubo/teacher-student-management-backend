@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD.API.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e25674436398ca4a618dfddce050eb01bae30ff3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe501eb6a5568d3e95bbb1de2fa8cf12a08f3f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD.API.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD.API.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

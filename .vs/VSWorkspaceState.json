@@ -3,12 +3,14 @@
     "",
     "\\CRUD.API",
     "\\CRUD.API.Tests",
-    "\\CRUD.API.Tests\\Controllers",
-    "\\CRUD.API.Tests\\Controllers\\TeachersController",
     "\\CRUD.API.Tests\\Services",
-    "\\CRUD.API.Tests\\Services\\StudentsService",
     "\\CRUD.API.Tests\\Services\\TeachersService",
-    "\\CRUD.API\\Controllers"
+    "\\CRUD.API\\Controllers",
+    "\\CRUD.API\\Handler",
+    "\\CRUD.API\\Handler\\TeacherHandler",
+    "\\CRUD.API\\Models",
+    "\\CRUD.API\\Models\\MongoModels",
+    "\\CRUD.API\\Services"
   ],
   "SelectedNode": "\\CRUD.API.sln",
   "PreviewInSolutionExplorer": false

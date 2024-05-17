@@ -1,29 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Angular\\sample-application\\API\\CRUD.API\\",
+  "WorkspaceRootPath": "D:\\Angular\\API\\CRUD.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\controllers\\officestaffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\officestaffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\models\\mongomodels\\officestaffdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\models\\mongomodels\\officestaffdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\repositories\\mongogenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\repositories\\mongogenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\models\\mongomodels\\iofficestaffdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\models\\mongomodels\\iofficestaffdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\models\\mongomodels\\officestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\models\\mongomodels\\officestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\services\\officestaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\services\\officestaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\services\\iofficestaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\services\\iofficestaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\repositories\\imongogenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\repositories\\imongogenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\handler\\teacherhandler\\createteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\handler\\teacherhandler\\createteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\handler\\teacherhandler\\createteachercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\handler\\teacherhandler\\createteachercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D304FD-F785-43F7-BA00-0587D24956E6}|CRUD.API.Tests\\CRUD.API.Tests.csproj|d:\\angular\\api\\crud.api\\crud.api.tests\\controllers\\teacherscontroller\\teacherscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D304FD-F785-43F7-BA00-0587D24956E6}|CRUD.API.Tests\\CRUD.API.Tests.csproj|solutionrelative:crud.api.tests\\controllers\\teacherscontroller\\teacherscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\handler\\teacherhandler\\createteachercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\handler\\teacherhandler\\createteachercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\hasscopehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\hasscopehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\sample-application\\api\\crud.api\\crud.api\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|d:\\angular\\api\\crud.api\\crud.api\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{613ED25B-6D21-40B5-830D-000FC538BBE8}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,85 +98,274 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HasScopeRequirement.cs",
-              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeRequirement.cs",
-              "RelativeDocumentMoniker": "CRUD.API\\HasScopeRequirement.cs",
-              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeRequirement.cs",
-              "RelativeToolTip": "CRUD.API\\HasScopeRequirement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:17:53.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "CRUD.API\\Controllers\\StudentsController.cs",
-              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "CRUD.API\\Controllers\\StudentsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T05:29:44.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeachersController.cs",
-              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\TeachersController.cs",
-              "RelativeDocumentMoniker": "CRUD.API\\Controllers\\TeachersController.cs",
-              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Controllers\\TeachersController.cs",
-              "RelativeToolTip": "CRUD.API\\Controllers\\TeachersController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAuwC8AAABaAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Program.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Program.cs",
+              "RelativeToolTip": "CRUD.API\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwDcAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T03:11:19.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CRUD.API\\appsettings.json",
-              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\appsettings.json",
-              "RelativeToolTip": "CRUD.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T03:18:33.364Z",
+              "WhenOpened": "2024-04-29T04:10:30.583Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Program.cs",
-              "RelativeDocumentMoniker": "CRUD.API\\Program.cs",
-              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\Program.cs",
-              "RelativeToolTip": "CRUD.API\\Program.cs",
-              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJsAAAAdAAAA",
+              "Title": "OfficeStaffsController.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Controllers\\OfficeStaffsController.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Controllers\\OfficeStaffsController.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Controllers\\OfficeStaffsController.cs",
+              "RelativeToolTip": "CRUD.API\\Controllers\\OfficeStaffsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T04:10:30.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:15:24.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfficeStaffDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Models\\MongoModels\\OfficeStaffDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Models\\MongoModels\\OfficeStaffDatabaseSettings.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Models\\MongoModels\\OfficeStaffDatabaseSettings.cs",
+              "RelativeToolTip": "CRUD.API\\Models\\MongoModels\\OfficeStaffDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:56:48.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoGenericRepository.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Repositories\\MongoGenericRepository.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Repositories\\MongoGenericRepository.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Repositories\\MongoGenericRepository.cs",
+              "RelativeToolTip": "CRUD.API\\Repositories\\MongoGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:55:41.777Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HasScopeHandler.cs",
-              "DocumentMoniker": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeHandler.cs",
-              "RelativeDocumentMoniker": "CRUD.API\\HasScopeHandler.cs",
-              "ToolTip": "D:\\Angular\\sample-application\\API\\CRUD.API\\CRUD.API\\HasScopeHandler.cs",
-              "RelativeToolTip": "CRUD.API\\HasScopeHandler.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBUAAAADAAAA",
+              "Title": "IOfficeStaffDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Models\\MongoModels\\IOfficeStaffDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Models\\MongoModels\\IOfficeStaffDatabaseSettings.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Models\\MongoModels\\IOfficeStaffDatabaseSettings.cs",
+              "RelativeToolTip": "CRUD.API\\Models\\MongoModels\\IOfficeStaffDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:18:55.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T12:09:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfficeStaff.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Models\\MongoModels\\OfficeStaff.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Models\\MongoModels\\OfficeStaff.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Models\\MongoModels\\OfficeStaff.cs",
+              "RelativeToolTip": "CRUD.API\\Models\\MongoModels\\OfficeStaff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:23:30.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD.API\\appsettings.json",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\appsettings.json",
+              "RelativeToolTip": "CRUD.API\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T03:18:33.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Data\\MongoDbContext.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "CRUD.API\\Data\\MongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:52:47.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OfficeStaffService.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\OfficeStaffService.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Services\\OfficeStaffService.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\OfficeStaffService.cs",
+              "RelativeToolTip": "CRUD.API\\Services\\OfficeStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:07:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOfficeStaffService.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\IOfficeStaffService.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Services\\IOfficeStaffService.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\IOfficeStaffService.cs",
+              "RelativeToolTip": "CRUD.API\\Services\\IOfficeStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:39:30.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMongoGenericRepository.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Repositories\\IMongoGenericRepository.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Repositories\\IMongoGenericRepository.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Repositories\\IMongoGenericRepository.cs",
+              "RelativeToolTip": "CRUD.API\\Repositories\\IMongoGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:54:37.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\IStudentService.cs",
+              "RelativeToolTip": "CRUD.API\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:53:10.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\StudentService.cs",
+              "RelativeToolTip": "CRUD.API\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:10:28.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CRUD.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:34:16.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Services\\TeacherService.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Services\\TeacherService.cs",
+              "RelativeToolTip": "CRUD.API\\Services\\TeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:17:53.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateTeacherCommand.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommand.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommand.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommand.cs",
+              "RelativeToolTip": "CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:10:08.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateTeacherCommandHandler.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandHandler.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandHandler.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandHandler.cs",
+              "RelativeToolTip": "CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:52:47.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeachersControllerTests.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API.Tests\\Controllers\\TeachersController\\TeachersControllerTests.cs",
+              "RelativeDocumentMoniker": "CRUD.API.Tests\\Controllers\\TeachersController\\TeachersControllerTests.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API.Tests\\Controllers\\TeachersController\\TeachersControllerTests.cs",
+              "RelativeToolTip": "CRUD.API.Tests\\Controllers\\TeachersController\\TeachersControllerTests.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:24:36.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "CRUD.API\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:11:19.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateTeacherCommandValidator.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandValidator.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandValidator.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandValidator.cs",
+              "RelativeToolTip": "CRUD.API\\Handler\\TeacherHandler\\CreateTeacherCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:53:02.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CRUD.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwDQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:29:44.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HasScopeRequirement.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\HasScopeRequirement.cs",
+              "RelativeDocumentMoniker": "CRUD.API\\HasScopeRequirement.cs",
+              "ToolTip": "D:\\Angular\\API\\CRUD.API\\CRUD.API\\HasScopeRequirement.cs",
+              "RelativeToolTip": "CRUD.API\\HasScopeRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:17:53.668Z"
             }
           ]
         }

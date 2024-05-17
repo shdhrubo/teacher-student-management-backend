@@ -30,25 +30,12 @@ namespace CRUD.API.Controllers
       return CreatedAtAction(nameof(GetTeacher), new { id = teacherDto.Id }, teacherDto);
     }
 
-    // [Authorize]
-    //[HttpGet]
-    //public async Task<IActionResult> GetAllTeachers(int pageNumber = 1, int pageSize = 10)
-    //{
-    //  var query = new GetAllTeacherQuery();
-    //  var teachers = await _mediator.Send(query);
-    //  teachers = teachers.OrderBy(t => t.Id);
-    //  var totalTeachers = teachers.Count();
-    //  var paginatedTeachers = teachers.Skip((pageNumber - 1) * pageSize)
-    //                               .Take(pageSize)
-    //                               .ToList();
-    //  return Ok(new { teachers = paginatedTeachers, totalTeachers });
-    //}
-
+    
     [HttpGet]
     public async Task<IActionResult> GetAllTeachers(int pageNumber = 1, int pageSize = 10)
     {
-      var userEmailClaim = HttpContext.User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value;
-      Console.WriteLine(userEmailClaim);
+      var email = HttpContext.User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value;
+      Console.WriteLine(email);
       // Now you can proceed with your existing logic to get teachers
       var query = new GetAllTeacherQuery();
       var teachers = await _mediator.Send(query);
